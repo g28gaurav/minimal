@@ -2,24 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-# Header 1
+# Key projects
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Telecom sector 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Worked on on-shore engagement in Australia with one of the biggest Australian telecom providers. Design and developed an automation solution to automate their finance process like calculating external /internal commissions for vendors, processing rekey requests  and customer-facing processes like process bereavement requests, raising network outage reports and providing updates to customers for the outage.
 
+## Automobile sector:
+
+Project include automating the BTO (Built-To-Order) retail Sweep and Allocate process serves to identify the unscheduled order from the most recent week in order to properly allocate them to a target scheduling week. The process is meant to adjust allocation on both the dealer and regional levels to account for those orders.
+<!--
 ### Header 3
 
 ```js
@@ -48,16 +51,16 @@ end
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
+-->
+###### Certification
 
-###### Header 6
-
-| head1        | head two          | three |
+| Organization        | Certificate          | Year |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
+| UiPath           | RPA Developer Certification | 2017  |
+| UiPath | UiPath-RPA Developer Advanced Diploma - Level 3   | 2018  | 
+<!--| ok           | good `oreos`      | hmm   |-->
+<!--| ok           | good `zoute` drop | yumm  | -->
+<!--
 ### There's a horizontal rule below this.
 
 * * *
@@ -121,3 +124,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
